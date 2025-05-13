@@ -7,7 +7,7 @@ from util import *
 load_dotenv()
 
 # Parâmetro de entrada
-pais = "brazil"
+pais = "spain"
 cozinha  = obter_cozinha_pais(pais)
 
 # Criação dos agentes
